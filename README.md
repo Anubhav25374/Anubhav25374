@@ -28,7 +28,6 @@ For Software Development Roles, Projects, or Collaboration 😊
 </picture>
 
 ###
-
 ---
 
 ## 🌐 Socials:
