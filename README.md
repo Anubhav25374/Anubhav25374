@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Mayank Ahuja
+# 💫 Greeting, I'm Anubhav Srivastava
 **A passionate Software Developer and AI & ML Engineer from India**
 
 ---
