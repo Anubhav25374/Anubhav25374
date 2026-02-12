@@ -14,7 +14,6 @@ For Software Development Roles, Projects, or Collaboration 😊
 - ⚡ **Fun fact:** I enjoy converting real-world problems into clean backend logic
 
 ---
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Anubhav25374.Anubhav25374&"  />
 </div>
